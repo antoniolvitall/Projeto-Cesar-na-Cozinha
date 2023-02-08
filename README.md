@@ -1,5 +1,5 @@
 # Projeto-Cesar-na-Cozinha
-Criação de um site para um amigo onde ele consiga postar as receitas que ele grava para o canal no youtube assim como os seus vídeos.
+Criação de um site para um amigo onde ele consiga postar as receitas que ele grava para o canal no youtube https://www.youtube.com/@cesarnacozinha assim como os seus vídeos.
 O site será feito com o framework Django e o front-end será feito pelo [@nunorasdev](https://github.com/nunorasdev)
 
 
